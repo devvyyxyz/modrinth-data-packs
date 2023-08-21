@@ -1,18 +1,17 @@
 # Devvy's Modrinth Texture Packs
 
-Welcome to the Devvy's Modrinth Texture Packs repository! This repository hosts a collection of texture packs created by Devvyxyz and published on Modrinth.com. These texture packs offer unique visual experiences for various Minecraft versions.
+Welcome to the Devvy's Modrinth data packs repository! This repository hosts a collection of data packs created by Devvyxyz and published on Modrinth.com. These data packs offer unique gameplay experiences for various Minecraft versions.
 
-## Texture Packs
+## Data packs
 
-Explore a range of texture packs tailored for different Minecraft versions. Each texture pack brings a distinct visual style to the game, from enhancing realism to embracing a more whimsical and creative atmosphere.
+Explore a range of data packs tailored for different Minecraft versions. Each data pack brings a distinct set of features and style to the game, from enhancing realism, embracing a more whimsical and creative atmosphere to adding new entire functions.
 
-### List of Texture Packs
+### List of data packs
 
-- [Texture Pack 1](/texture-pack-1): A brief description of this texture pack.
-- [Texture Pack 2](/texture-pack-2): A brief description of this texture pack.
-- ...
+- [Recraftables](https://modrinth.com/datapack/recraftables)
 
-## How to Add a Texture Pack in Minecraft
+
+## How to Add a data pack in Minecraft
 
 1. **Download**: Visit the respective Modrinth page of the texture pack you want to use. Download the texture pack's zip file.
 
